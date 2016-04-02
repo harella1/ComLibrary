@@ -14,7 +14,7 @@
 #include <atlcom.h>
 #include <stdio.h>
 
-//#include "C:\Users\Ella\Documents\visual studio 2015\Projects\ComLibrary\ConsoleApplication1\Debug\comlibrary.tlh"
+//#include "C:\Users\aaaaaa\Documents\visual studio 2015\Projects\ComLibrary\ConsoleApplication1\Debug\comlibrary.tlh"
 #import "..\ComLibrary\bin\Debug\ComLibrary.tlb" raw_interfaces_only, named_guids, embedded_idl 
 using namespace ComLibrary;
 
